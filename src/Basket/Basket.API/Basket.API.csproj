@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
+    <PackageReference Include="StackExchange.Redis" Version="2.1.55" />
   </ItemGroup>
 
 
