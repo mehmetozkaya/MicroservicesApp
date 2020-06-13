@@ -3,10 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using Ordering.Application.Commands;
 using Ordering.Application.Queries;
 using Ordering.Application.Responses;
-using Ordering.Core.Entities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
