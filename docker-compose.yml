@@ -36,3 +36,9 @@ services:
         build:
             context: .
             dockerfile: src/ApiGateway/OcelotAPIGateway/Dockerfile
+
+    aspnetrunbasics:
+        image: ${DOCKER_REGISTRY-}aspnetrunbasics
+        build:
+            context: .
+            dockerfile: src/WebApp/AspnetRunBasics/Dockerfile
