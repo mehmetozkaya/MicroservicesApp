@@ -2,7 +2,7 @@
 MicroservicesApp for Udemy Course.
 
 This repository was old course materials.
-Course and repository fully updated in this repository -> https://github.com/mehmetozkaya/AspnetMicroservices
+Course and repository fully updated in this original repository -> https://github.com/aspnetrun/run-aspnetcore-microservices
 
 # AspnetMicroservices
 
